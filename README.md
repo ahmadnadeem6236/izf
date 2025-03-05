@@ -1,11 +1,12 @@
-# Create an E-Commerce Store using Next.js, Kinde-Auth, Neon, Upstache, Prisma, Stripe and Tailwind
+# Create an IZF Store using Next.js, Kinde-Auth, Neon, Upstache, Prisma, Stripe and Tailwind
 
-Features: 
+Features:
+
 - 🌐 Next.js App Router
 - 🔐 Kinde Authentication with MFA
 - 📧 Passwordless Auth
 - 🔑 OAuth (Google and GitHub)
-- 💰Payments using Stripe 
+- 💰Payments using Stripe
 - 🪝 Implementation of Stripe Webhooks
 - 💿 Neon Database
 - 💨 Prisma Orm
@@ -18,11 +19,11 @@ Features:
 
 - React Streaming
 - Stripe Checkout page
-- Server side implementation 
+- Server side implementation
 - Performance Optimized
 
-
 Resources used:
+
 - Next.js: https://nextjs.org
 - Kinde: https://dub.sh/xeU8r3v
 - Tailwind.css: https://tailwindcss.com
@@ -32,6 +33,3 @@ Resources used:
 - Neon: https://neon.tech/
 - Recharts: https://recharts.org/
 - Upstash: https://upstash.com/
-
-
-
